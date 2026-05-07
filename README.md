@@ -325,7 +325,7 @@ The LM was trained on Sagitta call center transcripts, but the validation set is
 Belgian Dutch + CSS10 audiobook speech. The LM's vocabulary is slightly mismatched
 to the val set domain, causing it to occasionally override correct acoustic predictions.
 
-On real Sagitta calls, the LM provides a small improvement (52.6% → 51.9% greedy vs LM).
+On real Sagitta calls, the LM provides a small improvement (22.6% → 21.9% greedy vs LM).
 
 ### Sample Transcription — Perfect Case
 
