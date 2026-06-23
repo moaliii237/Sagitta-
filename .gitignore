@@ -1,0 +1,32 @@
+# Model weights — too large for GitHub (1.2GB)
+*.safetensors
+*.bin
+*.pt
+
+# Language model files
+*.arpa
+
+# Audio files
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+dist/
+build/
+
+# HuggingFace dataset cache
+.cache/
+
+# VS Code
+.vscode/
+
+# Results (optional — remove this line if you want to track JSONs)
+results/*.json

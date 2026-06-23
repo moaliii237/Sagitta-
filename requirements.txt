@@ -1,0 +1,13 @@
+transformers==4.40.0
+datasets==2.19.0
+evaluate==0.4.1
+jiwer==3.0.3
+librosa==0.10.1
+soundfile==0.12.1
+accelerate==0.30.0
+peft==0.10.0
+pyctcdecode
+tqdm
+pandas
+numpy
+torch
